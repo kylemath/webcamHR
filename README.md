@@ -3,6 +3,8 @@ P5.js webcam HR
 
 Try in live Editor at: https://editor.p5js.org/kylemath@gmail.com/sketches/CqdFehF69
 
+![Example](webcamHR.png)
+
 # References
  https://github.com/serghov/heartRate/blob/master/index.js
  
