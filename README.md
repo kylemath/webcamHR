@@ -12,4 +12,6 @@ Try in live Editor at: https://editor.p5js.org/kylemath@gmail.com/sketches/CqdFe
  
  https://github.com/gfwilliams/HeartRate/blob/gh-pages/index.html
  
- https://github.com/danmcduff/iphys-toolbox/
+State of the Art Algorithms: https://github.com/danmcduff/iphys-toolbox/
+
+https://github.com/camilleanne/pulse
