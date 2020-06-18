@@ -28,9 +28,12 @@ https://github.com/pseudospencer/emojiCV
 
 Webcam Smile Tracker:
 https://editor.p5js.org/kylemath@gmail.com/sketches/gpgtQaUEH
+
 Webcam Gaze Tracker:
 https://editor.p5js.org/kylemath@gmail.com/sketches/mew4fm6q5
+
 FractalTree:
 https://editor.p5js.org/kylemath@gmail.com/sketches/P1pKbFdSi
+
 Webcam FaceTracker:
 https://editor.p5js.org/kylemath@gmail.com/sketches/CqdFehF69
