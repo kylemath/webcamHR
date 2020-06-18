@@ -15,3 +15,5 @@ Try in live Editor at: https://editor.p5js.org/kylemath@gmail.com/sketches/CqdFe
 State of the Art Algorithms: https://github.com/danmcduff/iphys-toolbox/
 
 https://github.com/camilleanne/pulse
+
+Head direction tracking eg. https://editor.p5js.org/mrbombmusic/sketches/ByDs3yqyV
