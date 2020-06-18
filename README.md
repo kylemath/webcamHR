@@ -17,3 +17,5 @@ State of the Art Algorithms: https://github.com/danmcduff/iphys-toolbox/
 https://github.com/camilleanne/pulse
 
 Head direction tracking eg. https://editor.p5js.org/mrbombmusic/sketches/ByDs3yqyV
+
+clm face tracking: https://editor.p5js.org/Emceelamb/sketches/rypGIAV1E
