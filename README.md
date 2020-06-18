@@ -21,3 +21,4 @@ Head direction tracking eg. https://editor.p5js.org/mrbombmusic/sketches/ByDs3yq
 clm face tracking: https://editor.p5js.org/Emceelamb/sketches/rypGIAV1E
 clm emotion: https://github.com/pseudospencer/emojiCV/blob/master/build6/sketch.js
  in editor: https://editor.p5js.org/guillaume_slizewicz/sketches/HJaL7i3zV
+https://github.com/pseudospencer/emojiCV
