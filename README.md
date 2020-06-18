@@ -19,3 +19,4 @@ https://github.com/camilleanne/pulse
 Head direction tracking eg. https://editor.p5js.org/mrbombmusic/sketches/ByDs3yqyV
 
 clm face tracking: https://editor.p5js.org/Emceelamb/sketches/rypGIAV1E
+clm emotion: https://github.com/pseudospencer/emojiCV/blob/master/build6/sketch.js
